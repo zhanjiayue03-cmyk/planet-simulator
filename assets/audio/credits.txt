@@ -1,0 +1,18 @@
+Aurora — Scott Buckley
+Source: https://www.scottbuckley.com.au/library/aurora/
+Original download: https://www.scottbuckley.com.au/library/wp-content/uploads/2021/10/Aurora.mp3
+License: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: 'Aurora' by Scott Buckley — released under CC BY 4.0 — www.scottbuckley.com.au
+
+Changes by Planet Simulator, 2026-10-28:
+Selected original 00:00–02:34 (154 seconds), as explicitly chosen by the user.
+Preserved original gain and dynamics; no normalization or compression.
+Added 2-second raised-cosine start fade and 8-second end fade.
+Encoded stereo AAC at 128 kbit/s, 44.1 kHz.
+No pitch, tempo or melody changes; looping has a soft re-entry, not a
+claim of a seamless or phase-matched edit. Artist does not endorse the app.
+
+Original MP3 is retained in assets/audio/originals/Scott-Buckley-Aurora-original.mp3.
+The original is not preloaded or shipped as an extra public app asset.
