@@ -2,7 +2,8 @@
   "phase": 11,
   "status": "experience-preview-not-frozen",
   "date": "2026-10-30",
+  "update": "overview-return-and-mirrored-control",
   "sourceHead": "87f3cd8482e04155304e0e4e1bf518b967407047",
   "includesUncommittedApprovedWork": true,
-  "buildFingerprint": "6a71d051bf2a92164e60ddcee223a7ceac566ddfc84a40dc9842d6b30d247a37"
+  "buildFingerprint": "e7611cbb7980d23101ede32de9082cdf5721a33093fc73ca5422c0afe405289e"
 }
