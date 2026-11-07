@@ -1,7 +1,7 @@
 {
   "phase": 11,
-  "status": "frozen",
-  "date": "2026-11-07",
-  "sourceHead": "62c67519a690adaa35be602682352dbf1d7c138b",
-  "buildFingerprint": "5cbb5b0169ea15ca68507255e1f7d9d3f2aab805720483400d721f9cf7ac38f3"
+  "status": "follow-up",
+  "date": "2026-11-08",
+  "sourceBase": "62c67519a690adaa35be602682352dbf1d7c138b",
+  "buildFingerprint": "bc6e12d976b522ec86fdd71844f1305ed81938ec74d07682a1b0db18258cf5fe"
 }
